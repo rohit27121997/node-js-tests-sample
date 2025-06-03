@@ -24,4 +24,4 @@ jobs:
         run: npm test
 
       - name: Deploy to production
-        run: npm run deploy
+        run: npm run 
